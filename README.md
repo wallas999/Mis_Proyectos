@@ -23,4 +23,4 @@ Destaco por mi **pensamiento analítico**, mi capacidad de **resolver problemas 
 
 ## 📫 Contacto
 
-Puedes contactarme a través de [LinkedIn](www.linkedin.com/in/william-vidal-48a6a052) o visitar mis proyectos aquí mismo en GitHub.
+Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/william-vidal-48a6a052) o visitar mis proyectos aquí mismo en GitHub.
