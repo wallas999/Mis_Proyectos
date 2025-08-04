@@ -25,7 +25,10 @@ Destaco por mi **pensamiento analítico**, mi capacidad de **resolver problemas 
 
 Te dejo mis primeros proyectos acá en GitHub, y una breve presentación en mi canal de YouTube.
 
-[![Ver video en YouTube](https://img.youtube.com/vi/FmAKBsS9MH4/0.jpg)](https://youtu.be/FmAKBsS9MH4)
+<a href="https://youtu.be/FmAKBsS9MH4" target="_blank">
+  <img src="https://img.youtube.com/vi/FmAKBsS9MH4/0.jpg" alt="Ver video en YouTube" style="height:90px; border-radius:8px;" />
+</a>
+<p><a href="https://youtu.be/FmAKBsS9MH4">▶️ Ver el video en YouTube</a></p>
 
 ---
 
