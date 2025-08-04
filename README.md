@@ -21,6 +21,14 @@ Destaco por mi **pensamiento analítico**, mi capacidad de **resolver problemas 
 
 ---
 
+## 💼 Revisa mi portafolio de proyectos 
+
+Te dejo mis primeros proyectos acá en GitHub, y una breve presentación en mi canal de YouTube.
+
+[![Ver video en YouTube](https://img.youtube.com/vi/FmAKBsS9MH4/0.jpg)](https://youtu.be/FmAKBsS9MH4)
+
+---
+
 ## 📫 Contacto
 
-Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/william-vidal-48a6a052) o visitar mis proyectos aquí mismo en GitHub.
+Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/william-vidal-48a6a052).
